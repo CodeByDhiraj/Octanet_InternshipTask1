@@ -1,7 +1,7 @@
 # Octanet_InternshipTask1
 Responsive car servicing landing page using HTML, CSS, and JavaScript!
 
-# Live Preview -> 
+# Live Preview -> https://codebydhiraj.github.io/Octanet_InternshipTask1/
 
 # Follow Me For More Valuable Contents
 
