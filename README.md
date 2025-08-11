@@ -7,4 +7,4 @@ Responsive car servicing landing page using HTML, CSS, and JavaScript!
 
 Github -> https://www.Github.com/CodeByDhiraj/
 
-Linkedln -> https://www.linkedin.com/in/dhiraj-kumar-850s/ 
+Linkedln -> https://www.linkedin.com/in/dhirajdev
